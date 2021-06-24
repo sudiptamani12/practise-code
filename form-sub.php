@@ -4,7 +4,7 @@
 <head>
 <!-- <style>
 .error {
-    colo
+    color: #FF0000;}
 </style> -->
 </head>
 
